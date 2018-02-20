@@ -9,4 +9,4 @@ CSS,
 Chrome Developer tool
 
 ### Deployment
-Used terminal to push the repository and upload the pages.
+Used  multiple terminal commands to clone and push the repository to GitHub and upload the portfolio using GitHub pages.
