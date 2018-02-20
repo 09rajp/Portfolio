@@ -4,8 +4,8 @@ I have utilitzed HTML5/ CSS to create this portfolio. Along with that, Sidebar l
 
 ### Prerequisities
 What things needed to create this portfolio:
-HTML5
-CSS
+HTML5,
+CSS,
 Chrome Developer tool
 
 ### Deployment
